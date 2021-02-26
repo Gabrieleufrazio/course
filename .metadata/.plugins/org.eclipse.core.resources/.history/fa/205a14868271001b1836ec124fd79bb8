@@ -1,0 +1,5 @@
+package model.entitites;
+
+public class Vehicle {
+
+}
